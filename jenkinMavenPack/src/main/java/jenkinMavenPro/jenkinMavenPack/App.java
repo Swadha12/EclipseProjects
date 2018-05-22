@@ -3,7 +3,7 @@ package jenkinMavenPro.jenkinMavenPack;
 /**
  * Hello world!
  * jjhh
- * 
+ * ghgj
  *
  */
 public class App 
